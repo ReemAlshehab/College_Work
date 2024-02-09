@@ -24,7 +24,7 @@ include "Dbcon.php";
         <section class="aboutsec">
             <br><br><br><br>
 
-            <div class="aboutus">
+            <div class="aboutus" id="aboutId">
                 <h1 class="page-title">ABOUT US</h1>
             <img src="../images/aboutuspic.png" alt="eventPicture"/>
             </div>
